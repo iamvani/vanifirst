@@ -1,5 +1,6 @@
 from django.shortcuts import render
 print("hello vani")
 print("yesss")
-print("hhiii")
+print("hii")
+print("amitc")
 # Create your views here.
